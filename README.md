@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Reactjs💙, Vuejs💚, Nodejs🤍 and AWS💛
-- 🌱 I’m currently learning ... Python and Azure
+- 🌱 I’m currently learning ... Python 🐍 and Azure
 - 👯 I’m looking to collaborate on ... Reactjs, Vuejs
 - 🤔 I’m looking for help with ... Azure
 - 💬 Ask me about ... Anything 🤷‍♂️
