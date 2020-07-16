@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi there 👋 , I'm Shankhadeep
 
-
-Here are some ideas to get you started:
+- I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include MERN, MEVN stack with AWS amplify and AWS core services.
 
 - 🔭 I’m currently working on ... Reactjs💙, Vuejs💚, Nodejs🤍 and AWS💛
 - 🌱 I’m currently learning ... Python 🐍 and Azure
