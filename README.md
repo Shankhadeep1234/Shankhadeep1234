@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on ... Reactjs, Vuejs
 - 🤔 I’m looking for help with ... Azure
 - 💬 Ask me about ... Anything 🤷‍♂️
-- 📫 How to reach me: ... [email](mailto:shankhadeepraj@gmail.com), [linkedin](https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/)
+- 📫 How to reach me: ... [Email](mailto:shankhadeepraj@gmail.com), [LinkedIn](https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/)
 - ⚡ Fun fact: ... loves to eat and taking photos
 -->
