@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Shankhadeep
-![Alt Text](https://i.imgur.com/Gpxkj1A.png)
+![Alt Text](https://i.imgur.com/fFgh2sw.png)
 
 - I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include MERN, MEVN stack with AWS amplify and AWS core services.
 
