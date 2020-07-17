@@ -8,9 +8,8 @@
 - 🔭 I’m currently working on ... Reactjs💙, Vuejs💚, Nodejs🤍 and AWS💛
 - 🌱 I’m currently learning ... Python 🐍 and Azure
 - 👯 I’m looking to collaborate on ... Reactjs, Vuejs 
-![Shankhadeep's github stats](https://github-readme-stats.vercel.app/api?username=Shankhadeep1234&show_icons=true]&hide=["contribs","prs"])
 - 🤔 I’m looking for help with ... Azure
-- 💬 Ask me about ... Anything 🤷‍♂️
+- 💬 Ask me about ... Anything 🤷‍♂️ ![Shankhadeep's github stats](https://github-readme-stats.vercel.app/api?username=Shankhadeep1234&show_icons=true]&hide=["contribs","prs"])
 - 📫 How to reach me: ... [Email](mailto:shankhadeepraj@gmail.com), [LinkedIn](https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/)
 - ⚡ Fun fact: ... loves to eat and taking photos and Chai over Coffee 😉
 
