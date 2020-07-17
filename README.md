@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Shankhadeep
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=https://github.com/shankhadeep1234 alt=https://github.com/shankhadeep1234/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Shankhadeep1234 alt=rahuldkjain/> </p>
 
 ![Alt Text](https://i.imgur.com/fFgh2sw.png)
 
