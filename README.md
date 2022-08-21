@@ -13,7 +13,7 @@
 - 📫 How to reach me: ... [Email](mailto:shankhadeepraj@gmail.com), [LinkedIn](https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/)
 - ⚡ Fun fact: ... loves to eat and taking photos and Chai over Coffee 🙌🙌
 
-👨‍💻 I regularly post on LinkedIn on programming - <a href="https://linkedin.com/in/https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/" height="10" width="20" /></a>
+👨‍💻 I regularly post on LinkedIn on programming - <a href="https://linkedin.com/in/https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shankhadeep-bhadra-a69a73b8/" height="20" width="30" /></a>
 
 
 <h4 align="left">Languages and Tools:</h4>
