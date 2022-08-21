@@ -21,3 +21,6 @@
 
 ![Shankhadeep's github stats](https://github-readme-stats.vercel.app/api?username=Shankhadeep1234&show_icons=true]&hide=["contribs","prs"])
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankhadeep1234" alt="shankhadeep1234" /></a> </p>
+
+
